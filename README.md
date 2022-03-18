@@ -77,7 +77,7 @@ hobby.md
 
 I _like_ to visit these sites as hobby-
 
-* [Twitter]
+* [Twitter] (https://twitter.com/?lang=en)
 
 [return to home](./README.md)
 
