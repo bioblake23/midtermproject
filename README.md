@@ -87,13 +87,13 @@ marks.md
 
 ## My marks-
 
-| test | Maths | C language |
+| Courses I've Taken |
 | ------- |:-------:| -----:|
-| Test 1 | 10 | 8 |
-| Mid Sem | 20 | 20 |
-| End Sem | 65 | 69 |
+| Bio 1500|
+| Organic Chemistry 1 and 2 |
+| Spanish 1-3 |
 
-## Certificates
+## Images
 
 ![Certificate 1](https://career.missouri.edu/wp-content/uploads/sites/3/2018/08/CDNwithBackground-232x300.png)
 
