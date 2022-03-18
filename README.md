@@ -1,40 +1,102 @@
-# midtermproject
-# Welcome to My Github
+# Main Page
+## Welcome, my name is Blake
 
-## Projects
+I am an undergradute at Mizzou studying Biology and Psychology.
 
-* Project 1
-* Project 2
-* Project 3
+You can navigate my website using these links:)
 
-Click here to [visit the projects page](page2.md)
+* [Skills](./skills.md)
+* [Code Sample](./code_sample.md)
+* [Hobbies](./hobby.md)
+* [Academy Performance](./marks.md)
 
-Click here to [visit chegg](cheggURL)
+skills.md
 
-## code
+# Skills
 
+## My jobs
+1. Career Specialist
+1. UCR for Cytiva Life Sciences
+1. Bank teller
+
+
+## Soft skills
+1. Self-driven
+1. Strong leader
+
+[Go back to home page](./README.md)
+
+code_sample.md
+
+# Code Sample
+
+This is some code I have written
+
+### HTML
+```html
+<!DOCTYPE html>
+<html>
+   <head>
+       <meta charset="UTF-8">
+       <title>Fizz Buzz</title>
+
+       <script>
+           function fizzbuzz() {
+           var display = document.getElementById('display');
+           var displayHTML = "";
+           for (i = 0; i < 100; i++) {
+           displayHTML += "<p>" + i + "</p>";
+           }
+           display.innerHTML = displayHTML;
+           }
+       </script>
+   </head>
+   <body onload="fizzbuzz()">
+       <div id="display">
+       </div>
+   </body>
+</html>
 ```
-print("Hello Github")
-print("This is asweome")
-  
+
+### C code
+
+```c
+#include <stdio.h>
+int main() {
+// printf() displays the string inside quotation
+printf("Hello, World!");
+return 0;
+}
 ```
-**This text is in bold** and *this is in italics*
 
+[return to home page](./README.md)
 
-## More
+hobby.md
 
-> Markdown of Github is simply awesome we can have everything we want
+# Hobby
 
-## Image from Github syntax is ![Alt Text](URL of the image)
+I _like_ to visit these sites as hobby-
 
-![Image of Github Logo](github.png)
+* [Twitter]
 
-## Image from somewhere else in the internet
+[return to home](./README.md)
 
-![Image of Chegg Logo](CHEGGLOGOURL)
+marks.md
 
-page2.md
+# Academy Performance
 
-# This is page 2 liked to the readme that it home page
+## My marks-
 
-#### Projects description here
+| test | Maths | C language |
+| ------- |:-------:| -----:|
+| Test 1 | 10 | 8 |
+| Mid Sem | 20 | 20 |
+| End Sem | 65 | 69 |
+
+## Certificates
+
+![Certificate 1](https://career.missouri.edu/wp-content/uploads/sites/3/2018/08/CDNwithBackground-232x300.png)
+
+![Certificate 2](https://cdn.cytivalifesciences.com/dmm3bwsv3/AssetStream.aspx?mediaformatid=10061&destinationid=10016&assetid=33409)
+
+[return to home](./README.md)
