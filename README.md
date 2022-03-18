@@ -85,7 +85,7 @@ marks.md
 
 # Academy Performance
 
-## My marks-
+## Some examples of my educational backround-
 
 | Courses I've Taken |
 | ------------------:|
