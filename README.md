@@ -88,7 +88,7 @@ marks.md
 ## My marks-
 
 | Courses I've Taken |
-| ------- |:-------:| -----:|
+| ------------------:|
 | Bio 1500|
 | Organic Chemistry 1 and 2 |
 | Spanish 1-3 |
